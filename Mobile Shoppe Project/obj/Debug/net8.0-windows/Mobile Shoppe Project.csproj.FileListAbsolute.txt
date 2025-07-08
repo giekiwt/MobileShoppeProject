@@ -39,3 +39,46 @@ D:\Xây dựng hệ thống thông tin quản lý - HT22CLC\Mobile Shoppe Projec
 D:\Xây dựng hệ thống thông tin quản lý - HT22CLC\Mobile Shoppe Project\Mobile Shoppe Project\bin\Debug\net8.0-windows\Mobile Shoppe Project.pdb
 D:\Xây dựng hệ thống thông tin quản lý - HT22CLC\Mobile Shoppe Project\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.genruntimeconfig.cache
 D:\Xây dựng hệ thống thông tin quản lý - HT22CLC\Mobile Shoppe Project\Mobile Shoppe Project\obj\Debug\net8.0-windows\ref\Mobile Shoppe Project.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\Mobile Shoppe Project.exe
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\Mobile Shoppe Project.deps.json
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\Mobile Shoppe Project.runtimeconfig.json
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\Mobile Shoppe Project.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\Mobile Shoppe Project.pdb
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.csproj.AssemblyReference.cache
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.AddCompanyForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.AddEmployeeForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.AddMobileForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.AddModelForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.AdminHomepage.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.AdminLogin.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.ConfirmDetails.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.ForgotPassword.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.Properties.Resources.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.RegisterForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.RoleSelectionForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.SalesForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.SalesReportForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.SearchByIMEIForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.UpdateStockForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.UserHomepage.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.UserLogin.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.ViewStockForm.resources
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.csproj.GenerateResource.cache
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.AssemblyInfoInputs.cache
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.AssemblyInfo.cs
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.csproj.CoreCompileInputs.cache
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.sourcelink.json
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile S.450DE4A2.Up2Date
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\refint\Mobile Shoppe Project.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.pdb
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile Shoppe Project.genruntimeconfig.cache
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\ref\Mobile Shoppe Project.dll
+D:\XDHTTTQL\MobileShoppeProject\MobileShoppeProject\Mobile Shoppe Project\obj\Debug\net8.0-windows\Mobile_Shoppe_Project.DaySalesReportForm.resources

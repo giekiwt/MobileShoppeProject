@@ -79,6 +79,7 @@
             txtStockAvailable.Name = "txtStockAvailable";
             txtStockAvailable.Size = new Size(121, 23);
             txtStockAvailable.TabIndex = 20;
+            txtStockAvailable.ReadOnly = true;
             // 
             // label1
             // 
@@ -114,6 +115,7 @@
             Controls.Add(cbCompany);
             Name = "ViewStockForm";
             Text = "ViewStockForm";
+            Load += new System.EventHandler(this.ViewStockForm_Load);
             ResumeLayout(false);
             PerformLayout();
         }

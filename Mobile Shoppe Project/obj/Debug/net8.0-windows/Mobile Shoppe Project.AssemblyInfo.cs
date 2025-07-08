@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mobile Shoppe Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+959b574b236744cd9a3c503349214d7ed06414f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mobile Shoppe Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mobile Shoppe Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

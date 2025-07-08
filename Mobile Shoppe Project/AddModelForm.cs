@@ -25,7 +25,7 @@ namespace Mobile_Shoppe_Project
 
         private void AddModelForm_Load(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT CompId, CName FROM tbl_Company";
@@ -42,7 +42,7 @@ namespace Mobile_Shoppe_Project
 
         private void btnAddModel_Click(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "INSERT INTO tbl_Model (ModelId, CompId, ModelNum, AvailableQty) VALUES (@id, @compId, @modelNum, 0)";

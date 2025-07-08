@@ -1,19 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+using System;
 using System.Data;
 using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Mobile_Shoppe_Project
 {
-    public partial class SalesReportForm : Form
+    public partial class DaySalesReportForm : Form
     {
-        public SalesReportForm()
+        public DaySalesReportForm()
         {
             InitializeComponent();
         }
@@ -29,19 +23,18 @@ namespace Mobile_Shoppe_Project
                 c.CName AS CompanyName, 
                 m.ModelNum, 
                 s.IMEINo, 
-                s.Price, 
-                cu.CustName AS CustomerName, 
+                s.Price,
+                cu.CustName AS CustomerName,
                 s.PurchaseDate
             FROM tbl_Sales s
             INNER JOIN tbl_Mobile mb ON s.IMEINo = mb.IMEINo
             INNER JOIN tbl_Model m ON mb.ModelId = m.ModelId
             INNER JOIN tbl_Company c ON m.CompId = c.CompId
             INNER JOIN tbl_Customer cu ON s.CustId = cu.CustId
-            WHERE s.PurchaseDate BETWEEN @startDate AND @endDate
-            ORDER BY s.PurchaseDate";
+            WHERE CAST(s.PurchaseDate AS DATE) = @selectedDate
+            ORDER BY s.SaleId";
                 SqlCommand cmd = new SqlCommand(sql, conn);
-                cmd.Parameters.AddWithValue("@startDate", dtpStartDate.Value.Date);
-                cmd.Parameters.AddWithValue("@endDate", dtpEndDate.Value.Date);
+                cmd.Parameters.AddWithValue("@selectedDate", dtpDate.Value.Date);
                 conn.Open();
                 DataTable dt = new DataTable();
                 dt.Load(cmd.ExecuteReader());
@@ -57,4 +50,4 @@ namespace Mobile_Shoppe_Project
             }
         }
     }
-}
+} 

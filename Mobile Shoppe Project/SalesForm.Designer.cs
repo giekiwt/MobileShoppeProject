@@ -141,6 +141,7 @@
             // cbModel
             // 
             cbModel.FormattingEnabled = true;
+            cbModel.DropDownStyle = ComboBoxStyle.DropDownList;
             cbModel.Location = new Point(189, 232);
             cbModel.Name = "cbModel";
             cbModel.Size = new Size(229, 23);
@@ -177,6 +178,7 @@
             // cbIMEI
             // 
             cbIMEI.FormattingEnabled = true;
+            cbIMEI.DropDownStyle = ComboBoxStyle.DropDownList;
             cbIMEI.Location = new Point(189, 261);
             cbIMEI.Name = "cbIMEI";
             cbIMEI.Size = new Size(229, 23);

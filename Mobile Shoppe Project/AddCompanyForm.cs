@@ -22,7 +22,7 @@ namespace Mobile_Shoppe_Project
         private void btnAddCompany_Click(object sender, EventArgs e)
         {
             // Sửa mật khẩu đúng của bạn ở đây
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "INSERT INTO tbl_Company (CompId, CName) VALUES (@id, @name)";

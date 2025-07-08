@@ -1,150 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\",
+  "WorkspaceRootPath": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\viewstockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\viewstockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\viewstockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\viewstockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\updatestockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\updatestockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\mobile shoppe project\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\searchbyimeiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\searchbyimeiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\daysalesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\daysalesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\searchbyimeiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\searchbyimeiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\confirmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\confirmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\roleselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\roleselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\roleselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\adminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\addmodelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\addmodelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\mobile shoppe project\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\addmobileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\addmobileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\addcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\addcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\addcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\addcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\roleselectionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\roleselectionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\roleselectionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\confirmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\confirmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\confirmdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\roleselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\roleselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\roleselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\salesreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\updatestockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\updatestockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\updatestockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\addmobileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\addmobileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\addmobileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\addmodelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\xdhtttql\\mobileshoppeproject\\mobileshoppeproject\\mobile shoppe project\\addmodelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\addmodelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|d:\\x\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - ht22clc\\mobile shoppe project\\mobile shoppe project\\addcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F65E8E7-ED43-4928-8E0F-C8033E979EEF}|Mobile Shoppe Project\\Mobile Shoppe Project.csproj|solutionrelative:mobile shoppe project\\addcompanyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,39 +98,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserHomepage.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UserHomepage.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\UserHomepage.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UserHomepage.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\UserHomepage.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "AddCompanyForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AddCompanyForm.cs",
+              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AddCompanyForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AddCompanyForm.cs",
+              "RelativeToolTip": "Mobile Shoppe Project\\AddCompanyForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:40:32.601Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-03T08:19:50.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminHomepage.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AdminHomepage.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AdminHomepage.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AdminHomepage.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\AdminHomepage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:23:35.227Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserLogin.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UserLogin.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\UserLogin.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\UserLogin.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UserLogin.cs [Design]",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\UserLogin.cs [Design]",
               "RelativeToolTip": "Mobile Shoppe Project\\UserLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T07:55:23.393Z",
@@ -195,100 +128,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AdminLogin.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AdminLogin.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AdminLogin.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AdminLogin.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\AdminLogin.cs [Design]",
+              "Title": "RoleSelectionForm.cs [Design]",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\RoleSelectionForm.cs",
+              "RelativeDocumentMoniker": "Mobile Shoppe Project\\RoleSelectionForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\RoleSelectionForm.cs [Design]",
+              "RelativeToolTip": "Mobile Shoppe Project\\RoleSelectionForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T07:55:39.253Z",
+              "WhenOpened": "2025-07-08T10:02:00.389Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ViewStockForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ViewStockForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\ViewStockForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ViewStockForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\ViewStockForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:49:56.963Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SalesReportForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SalesReportForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\SalesReportForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SalesReportForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\SalesReportForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:15:14.562Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SearchByIMEIForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SearchByIMEIForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\SearchByIMEIForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SearchByIMEIForm.cs",
-              "RelativeToolTip": "Mobile Shoppe Project\\SearchByIMEIForm.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAWwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:08:41.835Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ViewStockForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ViewStockForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\ViewStockForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ViewStockForm.cs",
-              "RelativeToolTip": "Mobile Shoppe Project\\ViewStockForm.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAtwDAAAAAzAAAAAAAAAA==",
+              "Title": "AdminHomepage.cs [Design]",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AdminHomepage.cs",
+              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AdminHomepage.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AdminHomepage.cs [Design]",
+              "RelativeToolTip": "Mobile Shoppe Project\\AdminHomepage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:05:17.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T09:23:35.227Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesReportForm.cs [Design]",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\SalesReportForm.cs",
+              "RelativeDocumentMoniker": "Mobile Shoppe Project\\SalesReportForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\SalesReportForm.cs [Design]",
+              "RelativeToolTip": "Mobile Shoppe Project\\SalesReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:03:41.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DaySalesReportForm.cs [Design]",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\DaySalesReportForm.cs",
+              "RelativeDocumentMoniker": "Mobile Shoppe Project\\DaySalesReportForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\DaySalesReportForm.cs [Design]",
+              "RelativeToolTip": "Mobile Shoppe Project\\DaySalesReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:01:39.043Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UpdateStockForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UpdateStockForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\UpdateStockForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UpdateStockForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\UpdateStockForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:18:07.827Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SearchByIMEIForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SearchByIMEIForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\SearchByIMEIForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SearchByIMEIForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\SearchByIMEIForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:50:09.027Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "SalesForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SalesForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\SalesForm.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\SalesForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SalesForm.cs [Design]",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\SalesForm.cs [Design]",
               "RelativeToolTip": "Mobile Shoppe Project\\SalesForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T08:49:40.064Z",
@@ -296,47 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ConfirmDetails.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ConfirmDetails.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\ConfirmDetails.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ConfirmDetails.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\ConfirmDetails.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T07:56:22.354Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RoleSelectionForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RoleSelectionForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\RoleSelectionForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RoleSelectionForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\RoleSelectionForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:47:02.276Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ForgotPassword.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ForgotPassword.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\ForgotPassword.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ForgotPassword.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\ForgotPassword.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T07:56:12.186Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "AdminHomepage.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AdminHomepage.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AdminHomepage.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\AdminHomepage.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AdminHomepage.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AdminHomepage.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\AdminHomepage.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAtwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,23 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddModelForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddModelForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AddModelForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddModelForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\AddModelForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:17:38.804Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 8,
               "Title": "RoleSelectionForm.Designer.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RoleSelectionForm.Designer.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\RoleSelectionForm.Designer.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\RoleSelectionForm.Designer.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RoleSelectionForm.Designer.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\RoleSelectionForm.Designer.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\RoleSelectionForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -370,137 +213,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AddMobileForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddMobileForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AddMobileForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddMobileForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\AddMobileForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:17:53.183Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AddCompanyForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddCompanyForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AddCompanyForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddCompanyForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\AddCompanyForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:17:10.619Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AddEmployeeForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddEmployeeForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AddEmployeeForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddEmployeeForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\AddEmployeeForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:18:19.63Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RegisterForm.cs [Design]",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\RegisterForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "Mobile Shoppe Project\\RegisterForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:06:04.897Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 9,
               "Title": "UserHomepage.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UserHomepage.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\UserHomepage.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\UserHomepage.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UserHomepage.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\UserHomepage.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\UserHomepage.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAEwDMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:42:07.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T09:42:07.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AdminLogin.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AdminLogin.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AdminLogin.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AdminLogin.cs",
-              "RelativeToolTip": "Mobile Shoppe Project\\AdminLogin.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:44:33.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 10,
               "Title": "SalesForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SalesForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\SalesForm.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\SalesForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SalesForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\SalesForm.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\SalesForm.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAAwHkAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:53:37.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T08:53:37.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 11,
               "Title": "ConfirmDetails.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ConfirmDetails.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\ConfirmDetails.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\ConfirmDetails.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ConfirmDetails.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\ConfirmDetails.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\ConfirmDetails.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAlwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T10:14:19.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T10:14:19.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 12,
               "Title": "ForgotPassword.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ForgotPassword.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\ForgotPassword.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\ForgotPassword.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\ForgotPassword.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\ForgotPassword.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\ForgotPassword.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:58:19.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T09:58:19.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 13,
               "Title": "AddEmployeeForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddEmployeeForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AddEmployeeForm.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\AddEmployeeForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddEmployeeForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AddEmployeeForm.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\AddEmployeeForm.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAwEwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:54:51.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T09:54:51.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 14,
               "Title": "RoleSelectionForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RoleSelectionForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\RoleSelectionForm.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\RoleSelectionForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RoleSelectionForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\RoleSelectionForm.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\RoleSelectionForm.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAtwCYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -509,111 +286,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\Program.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\Program.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\Program.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\Program.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\Program.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:20:59.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T09:20:59.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 16,
               "Title": "UserLogin.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UserLogin.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\UserLogin.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\UserLogin.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UserLogin.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\UserLogin.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\UserLogin.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAWwEQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:02:51.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T08:02:51.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 17,
               "Title": "RegisterForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RegisterForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\RegisterForm.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\RegisterForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\RegisterForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\RegisterForm.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\RegisterForm.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAtwBwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:11:50.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T08:11:50.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 18,
               "Title": "SalesReportForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SalesReportForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\SalesReportForm.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\SalesReportForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\SalesReportForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\SalesReportForm.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\SalesReportForm.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T09:17:24.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T09:17:24.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 19,
               "Title": "UpdateStockForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UpdateStockForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\UpdateStockForm.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\UpdateStockForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\UpdateStockForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\UpdateStockForm.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\UpdateStockForm.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAuwFgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:44:41.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T08:44:41.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 20,
               "Title": "AddMobileForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddMobileForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AddMobileForm.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\AddMobileForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddMobileForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AddMobileForm.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\AddMobileForm.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAA8wE8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:37:40.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T08:37:40.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 21,
               "Title": "AddModelForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddModelForm.cs",
+              "DocumentMoniker": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AddModelForm.cs",
               "RelativeDocumentMoniker": "Mobile Shoppe Project\\AddModelForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddModelForm.cs",
+              "ToolTip": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\AddModelForm.cs",
               "RelativeToolTip": "Mobile Shoppe Project\\AddModelForm.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAD4v0IAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:28:29.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AddCompanyForm.cs",
-              "DocumentMoniker": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddCompanyForm.cs",
-              "RelativeDocumentMoniker": "Mobile Shoppe Project\\AddCompanyForm.cs",
-              "ToolTip": "D:\\X\u00E2y d\u1EF1ng h\u1EC7 th\u1ED1ng th\u00F4ng tin qu\u1EA3n l\u00FD - HT22CLC\\Mobile Shoppe Project\\Mobile Shoppe Project\\AddCompanyForm.cs",
-              "RelativeToolTip": "Mobile Shoppe Project\\AddCompanyForm.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T08:19:50.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-07-03T08:28:29.175Z"
             }
           ]
         }

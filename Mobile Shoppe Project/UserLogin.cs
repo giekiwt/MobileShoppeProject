@@ -25,7 +25,7 @@ namespace Mobile_Shoppe_Project
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT COUNT(*) FROM tbl_User WHERE UserName=@user AND PWD=@pwd";
@@ -78,6 +78,13 @@ namespace Mobile_Shoppe_Project
             RegisterForm regForm = new RegisterForm();
             regForm.Show();
             this.Hide();
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            RoleSelectionForm roleForm = new RoleSelectionForm();
+            roleForm.Show();
+            this.Close();
         }
     }
 }

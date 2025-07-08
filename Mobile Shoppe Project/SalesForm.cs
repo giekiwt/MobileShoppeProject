@@ -25,7 +25,7 @@ namespace Mobile_Shoppe_Project
 
         private void SalesForm_Load(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT CompId, CName FROM tbl_Company";
@@ -41,7 +41,7 @@ namespace Mobile_Shoppe_Project
 
         private void cbCompany_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT ModelId, ModelNum FROM tbl_Model WHERE CompId=@compId";
@@ -58,7 +58,7 @@ namespace Mobile_Shoppe_Project
 
         private void cbModel_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT IMEINo FROM tbl_Mobile WHERE ModelId=@modelId AND Status='Not sold'";
@@ -75,7 +75,7 @@ namespace Mobile_Shoppe_Project
 
         private void cbIMEI_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT Price FROM tbl_Mobile WHERE IMEINo=@imei";
@@ -89,62 +89,38 @@ namespace Mobile_Shoppe_Project
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            // Lấy dữ liệu từ các control
+            string customerName = txtCustomerName.Text;
+            string mobileNumber = txtMobileNumber.Text;
+            string email = txtEmail.Text;
+            string address = txtAddress.Text;
+            string companyName = cbCompany.Text;
+            string modelNumber = cbModel.Text;
+            string imeiNumber = cbIMEI.Text;
+            string price = txtPrice.Text;
+            string modelId = cbModel.SelectedValue?.ToString();
+            string imeiNo = cbIMEI.SelectedValue?.ToString();
+            string custId = Guid.NewGuid().ToString().Substring(0, 8);
+            string warranty = "";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
+                string sql = "SELECT Warranty FROM tbl_Mobile WHERE IMEINo=@imei";
+                SqlCommand cmd = new SqlCommand(sql, conn);
+                cmd.Parameters.AddWithValue("@imei", imeiNo);
                 conn.Open();
-                SqlTransaction tran = conn.BeginTransaction();
-                try
-                {
-                    // 1. Thêm khách hàng
-                    string custId = Guid.NewGuid().ToString().Substring(0, 8);
-                    string sqlCust = "INSERT INTO tbl_Customer (CustId, CustName, MobileNumber, EmailId, Address) VALUES (@id, @name, @mobile, @email, @address)";
-                    SqlCommand cmdCust = new SqlCommand(sqlCust, conn, tran);
-                    cmdCust.Parameters.AddWithValue("@id", custId);
-                    cmdCust.Parameters.AddWithValue("@name", txtCustomerName.Text);
-                    cmdCust.Parameters.AddWithValue("@mobile", txtMobileNumber.Text);
-                    cmdCust.Parameters.AddWithValue("@email", txtEmail.Text);
-                    cmdCust.Parameters.AddWithValue("@address", txtAddress.Text);
-                    cmdCust.ExecuteNonQuery();
-
-                    // 2. Thêm vào bảng Sales
-                    string saleId = Guid.NewGuid().ToString().Substring(0, 8);
-                    string sqlSale = "INSERT INTO tbl_Sales (SaleId, IMEINo, PurchaseDate, Price, CustId) VALUES (@id, @imei, @date, @price, @custId)";
-                    SqlCommand cmdSale = new SqlCommand(sqlSale, conn, tran);
-                    cmdSale.Parameters.AddWithValue("@id", saleId);
-                    cmdSale.Parameters.AddWithValue("@imei", cbIMEI.SelectedValue.ToString());
-                    cmdSale.Parameters.AddWithValue("@date", DateTime.Now);
-                    cmdSale.Parameters.AddWithValue("@price", txtPrice.Text);
-                    cmdSale.Parameters.AddWithValue("@custId", custId);
-                    cmdSale.ExecuteNonQuery();
-
-                    // 3. Cập nhật trạng thái mobile là "sold"
-                    string sqlMobile = "UPDATE tbl_Mobile SET Status='sold' WHERE IMEINo=@imei";
-                    SqlCommand cmdMobile = new SqlCommand(sqlMobile, conn, tran);
-                    cmdMobile.Parameters.AddWithValue("@imei", cbIMEI.SelectedValue.ToString());
-                    cmdMobile.ExecuteNonQuery();
-
-                    // 4. Giảm tồn kho model
-                    string sqlModel = "UPDATE tbl_Model SET AvailableQty = AvailableQty - 1 WHERE ModelId=@modelId";
-                    SqlCommand cmdModel = new SqlCommand(sqlModel, conn, tran);
-                    cmdModel.Parameters.AddWithValue("@modelId", cbModel.SelectedValue.ToString());
-                    cmdModel.ExecuteNonQuery();
-
-                    tran.Commit();
-                    MessageBox.Show("Bán hàng thành công!");
-                    // Xóa dữ liệu nhập
-                    txtCustomerName.Clear();
-                    txtMobileNumber.Clear();
-                    txtAddress.Clear();
-                    txtEmail.Clear();
-                    txtPrice.Clear();
-                }
-                catch (Exception ex)
-                {
-                    tran.Rollback();
-                    MessageBox.Show("Lỗi: " + ex.Message);
-                }
+                object w = cmd.ExecuteScalar();
+                warranty = w != null ? w.ToString() : "";
             }
+            // Hiển thị form xác nhận, truyền dữ liệu sang
+            ConfirmDetails confirmForm = new ConfirmDetails(customerName, mobileNumber, email, address, companyName, modelNumber, imeiNumber, price, modelId, imeiNo, custId, warranty);
+            confirmForm.ShowDialog();
+            // Sau khi xác nhận xong, nếu muốn xóa dữ liệu nhập thì xóa ở đây (nếu cần)
+            // txtCustomerName.Clear();
+            // txtMobileNumber.Clear();
+            // txtAddress.Clear();
+            // txtEmail.Clear();
+            // txtPrice.Clear();
         }
     }
 }

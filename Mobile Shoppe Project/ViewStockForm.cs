@@ -20,7 +20,7 @@ namespace Mobile_Shoppe_Project
 
         private void ViewStockForm_Load(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT CompId, CName FROM tbl_Company";
@@ -36,7 +36,7 @@ namespace Mobile_Shoppe_Project
 
         private void cbCompany_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT ModelId, ModelNum FROM tbl_Model WHERE CompId=@compId";
@@ -53,7 +53,7 @@ namespace Mobile_Shoppe_Project
 
         private void cbModel_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT AvailableQty FROM tbl_Model WHERE ModelId=@modelId";

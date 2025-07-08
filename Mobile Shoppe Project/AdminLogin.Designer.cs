@@ -48,6 +48,7 @@
             btnBack.TabIndex = 13;
             btnBack.Text = "Quay lại";
             btnBack.UseVisualStyleBackColor = true;
+            btnBack.Click += btnBack_Click;
             // 
             // linkForgotPassword
             // 

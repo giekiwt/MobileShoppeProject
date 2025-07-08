@@ -52,5 +52,18 @@ namespace Mobile_Shoppe_Project
             SalesReportForm salesReportForm = new SalesReportForm();
             salesReportForm.ShowDialog();
         }
+
+        private void btnDaySalesReport_Click(object sender, EventArgs e)
+        {
+            DaySalesReportForm daySalesReportForm = new DaySalesReportForm();
+            daySalesReportForm.ShowDialog();
+        }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            AdminLogin login = new AdminLogin();
+            login.Show();
+            this.Close();
+        }
     }
 }

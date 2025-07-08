@@ -26,7 +26,7 @@ namespace Mobile_Shoppe_Project
                 return;
             }
 
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "INSERT INTO tbl_User (EmployeeName, Address, MobileNumber, UserName, PWD, Hint) " +

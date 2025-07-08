@@ -20,7 +20,7 @@ namespace Mobile_Shoppe_Project
 
         private void btnGetPassword_Click(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT PWD FROM tbl_User WHERE UserName=@user AND Hint=@hint";

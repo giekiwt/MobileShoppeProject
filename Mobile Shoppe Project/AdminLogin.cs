@@ -20,7 +20,7 @@ namespace Mobile_Shoppe_Project
 
         private void btnAdminLogin_Click(object sender, EventArgs e)
         {
-            string connStr = "Server=.;Database=MobileShoppeDB;uid=sa;pwd=Giakiet@123;";
+            string connStr = "Data Source=.;Initial Catalog=MobileShoppeDB;Integrated Security=True";
             using (SqlConnection conn = new SqlConnection(connStr))
             {
                 string sql = "SELECT COUNT(*) FROM tbl_User WHERE UserName=@user AND PWD=@pwd AND Role='Admin'";
@@ -45,8 +45,8 @@ namespace Mobile_Shoppe_Project
 
         private void btnBack_Click(object sender, EventArgs e)
         {
-            UserLogin login = new UserLogin();
-            login.Show();
+            RoleSelectionForm roleForm = new RoleSelectionForm();
+            roleForm.Show();
             this.Close();
         }
 
