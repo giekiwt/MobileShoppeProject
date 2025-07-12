@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0e6953CiB4A=",
+  "dgSpecHash": "qmUnO1JMuMg=",
   "success": true,
-  "projectFilePath": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj",
+  "projectFilePath": "D:\\MobileShoppee\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\votai\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\votai\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

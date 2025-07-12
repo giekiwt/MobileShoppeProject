@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj": {}
+    "D:\\MobileShoppee\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj": {}
   },
   "projects": {
-    "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj": {
+    "D:\\MobileShoppee\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj",
+        "projectUniqueName": "D:\\MobileShoppee\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj",
         "projectName": "Mobile Shoppe Project",
-        "projectPath": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj",
+        "projectPath": "D:\\MobileShoppee\\MobileShoppeProject\\Mobile Shoppe Project\\Mobile Shoppe Project.csproj",
         "packagesPath": "C:\\Users\\votai\\.nuget\\packages\\",
-        "outputPath": "D:\\XDHTTTQL\\MobileShoppeProject\\MobileShoppeProject\\Mobile Shoppe Project\\obj\\",
+        "outputPath": "D:\\MobileShoppee\\MobileShoppeProject\\Mobile Shoppe Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\votai\\AppData\\Roaming\\NuGet\\NuGet.Config",

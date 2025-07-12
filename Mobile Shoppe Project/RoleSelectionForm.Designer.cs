@@ -32,6 +32,7 @@
             btnAdminLogin = new Button();
             label3 = new Label();
             label1 = new Label();
+            btnGioiThieu = new Button();
             SuspendLayout();
             // 
             // btnUserLogin
@@ -76,11 +77,22 @@
             label1.TabIndex = 24;
             label1.Text = "Chọn cách thức đăng nhập. Bạn là Nhân viên hay Admin ?";
             // 
+            // btnGioiThieu
+            // 
+            btnGioiThieu.Location = new Point(270, 260);
+            btnGioiThieu.Name = "btnGioiThieu";
+            btnGioiThieu.Size = new Size(178, 40);
+            btnGioiThieu.TabIndex = 2;
+            btnGioiThieu.Text = "Giới thiệu nhóm";
+            btnGioiThieu.UseVisualStyleBackColor = true;
+            btnGioiThieu.Click += btnGioiThieu_Click;
+            // 
             // RoleSelectionForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(717, 323);
+            Controls.Add(btnGioiThieu);
             Controls.Add(label1);
             Controls.Add(label3);
             Controls.Add(btnAdminLogin);
@@ -97,5 +109,6 @@
         private Button btnAdminLogin;
         private Label label3;
         private Label label1;
+        private Button btnGioiThieu;
     }
 }

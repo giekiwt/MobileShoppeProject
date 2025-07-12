@@ -38,5 +38,11 @@ namespace Mobile_Shoppe_Project
             adminLogin.Show();
             this.Hide();
         }
+
+        private void btnGioiThieu_Click(object sender, EventArgs e)
+        {
+            GioiThieuForm gioiThieuForm = new GioiThieuForm();
+            gioiThieuForm.ShowDialog();
+        }
     }
 }
